@@ -1,9 +1,12 @@
 # Swatnet-Build
 
-### How to install Dependencies
-
+### How to set db
+Be sure to be in the directory with swatnet!
 ```
-sudo apt install libssh-dev -y
+mkdir assets
+mkdir assets/db
+touch assets/db/users.db
+touch assets/db/blacklist.db
 ```
 
 ### How to run Swatnet
@@ -30,3 +33,4 @@ sudo apt install libssh-dev -y
 ```
 coming soon....
 ```
+
