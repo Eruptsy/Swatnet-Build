@@ -15,10 +15,18 @@ touch assets/db/blacklist.db
 ```
 .\swatnet.exe -p <port> -bp <bot_port> -pw <bot_pw>
 ```
+Or
+```
+.\swatnet.exe
+```
 
 # Linux:
 ```
 ./swatnet -p <port> -bp <bot_port> -pw <bot_pw>
+``` 
+Or 
+```
+./swatnet
 ```
 
 
